@@ -34,7 +34,7 @@ img{
   font-weight:bold;
   text-align: center;
   display: block;
-  width:180px;
+  width:150px;
   padding: 4px 4px;
 	color: #EBCB8B;
 	background-color: lightblue;
@@ -50,13 +50,13 @@ img{
 }
 
 #sidebar p a:hover, #sidebar p a:active{
-   text-decoration: underline;
+   text-decoration: none;
    color:  #A3BE8C;
 }
 
 #container{
   background-color:  #ffffff;
-  width: 850px;
+  width: 800px;
 	margin: 0 auto;
 }
 
@@ -68,7 +68,7 @@ img{
 
 #sidebar{
   background-color: #cc99ff;
-  width: 400px;
+  width: 300px;
 	float: right;
   border-left: 5px solid #e6ff99;
   padding-left: 10px;
