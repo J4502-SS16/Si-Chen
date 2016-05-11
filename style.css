@@ -21,19 +21,19 @@ body {
  text-align: center;
 }
 
-#nav{
+#navigation{
   list-style-type: none;
   margin: 0;
   padding: 3px;
 }
 
-#nav li {
+#navigation li {
   list-style-type: none;
   display: inline;
 	float: left;
 }
 
-#nav a:link, #nav a:visited{
+#navvigation a:link, #navvigation a:visited{
   font-weight:bold;
   text-align: center;
   display: block;
@@ -43,7 +43,7 @@ body {
 	background-color: #99ff99;
 }
 
-#nav a:hover, #nav a:active {
+#navigation a:hover, #navigation a:active {
 	background-color: #BF616A;
 }
 
