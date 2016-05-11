@@ -22,7 +22,6 @@ body {
  text-align: center;
 }
 
-
 #nav{
   list-style-type: none;
   margin: 0;
@@ -55,12 +54,12 @@ img{
 
 #sidebar p a{
   text-decoration: none;
-  color: #8FA1B3;
+  color: #0000ff;
 }
 
 #sidebar p a:hover, #sidebar p a:active{
    text-decoration: none;
-   color:  #A3BE8C;
+   color:#000099;
 }
 #main{
   background-color: #ff9999;
