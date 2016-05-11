@@ -62,6 +62,19 @@ img{
    text-decoration: none;
    color:  #A3BE8C;
 }
+#main{
+  background-color: #ff9999;
+  width: 490px;
+	float: left;
+}
+
+#sidebar{
+  background-color: #cc99ff;
+  width: 200px;
+	float: right;
+  border-left: 5px solid #e6ff99;
+  padding-left: 5px;
+}
 
 body{background-color: lightblue;}
 /* this is on every page*/
