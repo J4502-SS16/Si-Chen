@@ -69,10 +69,10 @@ img{
 #sidebar{
   background-color: #cc99ff;
   width: 200px;
-  length:500px
 	float: right;
   border-left: 5px solid #e6ff99;
   padding-left: 5px;
+  padding-bottom: 50px
 }
 
 body{background-color: lightblue;}
