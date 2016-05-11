@@ -13,7 +13,7 @@ body {
 
 #container{
   background-color:  #ffffff;
-  width: 750px;
+  width: 700px;
 	margin: 0 auto;
 }
 
@@ -41,7 +41,7 @@ body {
   width:150px;
   padding: 4px 4px;
 	color: #EBCB8B;
-	background-color: lightblue;
+	background-color: #99ff99;
 }
 
 #nav a:hover, #nav a:active {
@@ -70,10 +70,10 @@ img{
 
 #sidebar{
   background-color: #cc99ff;
-  width: 300px;
+  width: 200px;
 	float: right;
   border-left: 5px solid #e6ff99;
-  padding-left: 10px;
+  padding-left: 5px;
 }
 body{background-color: lightblue;}
 /* this is on every page*/
